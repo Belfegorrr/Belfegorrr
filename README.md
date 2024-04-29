@@ -6,6 +6,8 @@
 </p>
 
 ###
+ ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1wNDlzcHZ5cDV1MXpyNjhuMDFuZjhmYTVtODZiOGJienk0dXFlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif) </p>
+###
 
 
   <div style="flex-basis: 48%;">
