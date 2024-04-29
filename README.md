@@ -7,9 +7,6 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
 
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
