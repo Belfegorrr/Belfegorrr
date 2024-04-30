@@ -35,8 +35,8 @@
 
 <div>
  <a href="https://github.com/Belfegorrr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Belfegorrr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belfegorrr&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Belfegorrr&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belfegorrr&layout=compact&langs_count=7&theme=gotham"/>
 
 </div> 
 
